@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/ApiConsume/">
+    <Project Path="ApiConsume/HotelProject.DataAccesLayer/HotelProject.DataAccesLayer.csproj" />
+    <Project Path="ApiConsume/HotelProject.DtoLayer/HotelProject.DtoLayer.csproj" />
+    <Project Path="ApiConsume/HotelProject.EntityLayer/HotelProject.EntityLayer.csproj" />
+    <Project Path="ApiConsume/HotelProject.WebApi/HotelProject.WebApi.csproj" />
+    <Project Path="HotelProject.BusinessLayer/HotelProject.BusinessLayer.csproj" />
+  </Folder>
+  <Folder Name="/Frontend/">
+    <Project Path="Frontend/HotelProject.WebUI/HotelProject.WebUI.csproj" />
+  </Folder>
+  <Folder Name="/ToDoList/" />
+</Solution>
