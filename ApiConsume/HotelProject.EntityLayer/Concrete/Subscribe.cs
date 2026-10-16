@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelProject.EntityLayer.Concrete
 {
-    internal class Subscribe
+    public class Subscribe
     {
         public int SubscribeID { get; set; }
 
