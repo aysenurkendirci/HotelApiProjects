@@ -1,6 +1,6 @@
 <Solution>
   <Folder Name="/ApiConsume/">
-    <Project Path="ApiConsume/HotelProject.DataAccesLayer/HotelProject.DataAccesLayer.csproj" />
+    <Project Path="ApiConsume/HotelProject.DataAccesLayer/HotelProject.DataAccessLayer.csproj" />
     <Project Path="ApiConsume/HotelProject.DtoLayer/HotelProject.DtoLayer.csproj" />
     <Project Path="ApiConsume/HotelProject.EntityLayer/HotelProject.EntityLayer.csproj" />
     <Project Path="ApiConsume/HotelProject.WebApi/HotelProject.WebApi.csproj" />
